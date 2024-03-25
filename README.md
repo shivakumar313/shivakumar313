@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shiva Kumar</h1>
 <h4 align="center">Mechanical engineer transitioning to data science enthusiast, leveraging analytical skills and domain knowledge to unravel insights from complex datasets and drive innovation.</h4>
+
 ### I have technical experience and interest in:
 * Machine Learning
 * Deep Learning
 * Natural Language Processing
 * MLOps
 * Data visualizations tools-
-* Excel
-* PowerBI
-* Tableau
+ * Excel
+ * PowerBI
+ * Tableau
 
 
 - 🌱 I’m currently learning **GEN AI**
