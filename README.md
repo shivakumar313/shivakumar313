@@ -5,14 +5,13 @@
 * Machine Learning
 * Deep Learning
 * Natural Language Processing
-* MLOps
 * Data visualizations tools-
  * Excel
  * PowerBI
  * Tableau
 
 
-- 🌱 I’m currently learning **GEN AI**
+- 🌱 I’m currently learning **ML Ops, GEN AI**
 
 - 💬 Ask me about **Mechanical product design & development**
 
